@@ -9,7 +9,7 @@ Analyze experimental data using statistical techniques such as Analysis of Varia
 Develop predictive models to estimate resin performance based on resin properties and process conditions.
 Optimize resin formulations and process parameters to maximize binding capacity, selectivity, and purification efficiency.
 
-##Project Tasks:
+## Project Tasks:
 
 1. Literature Review:
 Review existing literature on chromatography resin design and mAb purification processes to identify relevant factors and experimental approaches.
@@ -22,7 +22,7 @@ Utilize statistical software (e.g., R or Python) to generate a randomized experi
 Synthesize chromatography resins with varying compositions and properties according to the experimental plan.
 Perform chromatography experiments using model mAbs to evaluate resin performance under different conditions.
 
-###4. Data Analysis:
+### 4. Data Analysis:
 __Analyze experimental data using statistical techniques such as ANOVA to identify significant factors and interactions.
 Visualize experimental results using plots and graphs to illustrate trends and relationships.__
 
@@ -34,13 +34,13 @@ Evaluate model performance using cross-validation and other techniques.
 Use optimization algorithms to identify optimal resin formulations and process conditions that maximize resin performance.
 Conduct confirmation experiments to validate optimized conditions and assess robustness.
 
-##Expected Outcomes:
+## Expected Outcomes:
 
 Identification of key factors influencing chromatography resin performance for mAb purification.
 Development of predictive models to guide resin design and optimization efforts.
 Optimization of resin formulations and process parameters to achieve maximum binding capacity, selectivity, and purification efficiency..
 
-##Sample Deliverables:
+## Sample Deliverables:
 
 1. Experimental Plan Document outlining the factors, levels, and experimental design approach.
 2. Experimental Data Spreadsheet containing raw data from chromatography experiments.
