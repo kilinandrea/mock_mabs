@@ -52,7 +52,7 @@ Optimization of resin formulations and process parameters to achieve maximum bin
 
 ## Sample Deliverables:
 
-1. Experimental Plan Document outlining the factors, levels, and experimental design approach.
+1. Experimental Plan Document outlining the factors, levels, and experimental design approach - *TBD*
 2. [Experimental Data Spreadsheet containing raw data from chromatography experiments](https://github.com/kilinandrea/mock_mabs/blob/main/experimental_data.csv)
 3. [Statistical Analysis Report detailing the results of OLS regression analysis](https://github.com/kilinandrea/mock_mabs/blob/main/MOCK_MABS.ipynb)
 4. Predictive Model Documentation describing model development and validation - *TBD*
