@@ -12,6 +12,7 @@ Optimize resin formulations and process parameters to maximize binding capacity,
 ## Project Tasks:
 
 **Scientists**
+
 1. Literature Review:
 Review existing literature on chromatography resin design and mAb purification processes to identify relevant factors and experimental approaches.
 
@@ -24,6 +25,7 @@ Synthesize chromatography resins with varying compositions and properties accord
 Perform chromatography experiments using model mAbs to evaluate resin performance under different conditions.
 
 **Data Scientists**
+
 4. Data Analysis:
 __Analyze experimental data using statistical techniques such as OLS to identify significant factors.
 Visualize experimental results using plots and graphs to illustrate trends and relationships.__
@@ -33,6 +35,7 @@ Develop regression models to predict binding capacity, selectivity, and purifica
 Evaluate model performance using cross-validation and other techniques.
 
 **Both**
+
 6. Optimization:
 Use optimization algorithms to identify optimal resin formulations and process conditions that maximize resin performance.
 Conduct confirmation experiments to validate optimized conditions and assess robustness.
