@@ -7,9 +7,9 @@ This project aims to optimize the performance of chromatography resins used in t
 
 ## Key Objectives:
 
-Identify key factors influencing the binding capacity, selectivity, and purification efficiency of chromatography resins for mAb purification.
+Identify key factors influencing the binding capacity, and purification efficiency of chromatography resins for mAb purification.
 Design and conduct a series of experiments using a factorial design approach to systematically explore the effects of factors on resin performance.
-Analyze experimental data using statistical techniques such as Ordinary Least Squares regression (OLS) to describe the relationship between resin properties and process conditions (independent quantitative variables) and resin performance indicatorsa (one at a time, dependent variable).
+Analyze experimental data using statistical techniques such as Ordinary Least Squares regression (OLS) to describe the relationship between resin properties and process conditions (independent quantitative variables) and resin performance indicators (one at a time, dependent variable).
 Develop predictive models to estimate resin performance based on resin properties and process conditions.
 Optimize resin formulations and process parameters to maximize binding capacity, selectivity, and purification efficiency.
 
@@ -35,8 +35,8 @@ __Analyze experimental data using statistical techniques such as OLS to identify
 Visualize experimental results using plots and graphs to illustrate trends and relationships.__
 
 5. Predictive Modeling:
-Develop regression models to predict binding capacity, selectivity, and purification efficiency based on resin properties and process parameters.
-Evaluate model performance using cross-validation and other techniques.
+Develop regression models to predict binding capacity, and purification efficiency based on resin properties and process parameters.
+Evaluate model performance using cross-validation.
 
 **Both**
 
@@ -53,6 +53,5 @@ Optimization of resin formulations and process parameters to achieve maximum bin
 ## Sample Deliverables:
 
 1. Experimental Plan Document outlining the factors, levels, and experimental design approach - *TBD*
-2. [Experimental Data Spreadsheet containing raw data from chromatography experiments](https://github.com/kilinandrea/mock_mabs/blob/main/experimental_data.csv)
-3. [Statistical Analysis Report detailing the results of OLS regression analysis and predicitve modeling](https://github.com/kilinandrea/mock_mabs/blob/main/MOCK_MABS.ipynb)
-4. Optimization Report summarizing optimized resin formulations and process conditions - *TBD*
+2. [Statistical Analysis Report detailing the results of OLS regression analysis and predicitve modeling](https://github.com/kilinandrea/mock_mabs/blob/main/MOCK_MABS.ipynb)
+3. Optimization Report summarizing optimized resin formulations and process conditions - *TBD*
